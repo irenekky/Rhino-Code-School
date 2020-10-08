@@ -1,0 +1,28 @@
+.no-bullets{
+  list-style-type: none;
+  padding-left: 0px;
+}
+
+.no-bullets li{
+  padding: 10px 0 10px 0;
+}
+
+.present-text {
+  word-wrap: break-word;
+}
+
+.margin-up{
+  margin-top: 20px;
+}
+
+.margin-down{
+  margin-bottom: 20px;
+}
+
+.no-padding{
+  padding-left: 0px;
+}
+
+.display-file-input{
+  display: inline-block !important;
+}

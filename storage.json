@@ -1,0 +1,12 @@
+{
+    "type": "service_account",
+    "project_id": "education-app-291403",
+    "private_key_id": "f0ed6758e53c9ea402ccfcfe340d0727de38f5f7",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCyGqq+Q/i49bw5\najx3qzfHjg1QEH7okEwuxOdildt01EMqJH4EdjewD8D0YuHBGqt7xZPTyLpmveZn\nBsv2zjCeAmZHqdgYfvHz/+JZOa/zjk5xuSq8WzSSjJj/GsY6nN2/mEyEtQ5lP52b\nAKFVFfvlLajILpdUE/kpV3/jvPAW3YaJCiH7Fox0siSao29dr5bFaK5sVAJ8v9ky\nBSonguXI7MqJTVOaiZGnsTX97FH2TdCQikHT23E/fVRXW/hl23rXD+UIDXPBRSKT\ndgQR+BaWJEM3CTA6wddRqMGaGNcKoACp0jo45pPJq0ngv0IhDKRyJ33rh8cH0ur9\nPSM8kCw7AgMBAAECggEAN5qMuOcGpVQOxgwNQb0iJnqKXHcx79BxAF738Dbh82j7\naRJIh4MS4rQgZQvj+EInzHYEL2fpDf92ia69CdoYopQUM4ZqkUc8qZU3KO0SKiNB\nCU8qcPC2ipQ7hdVpks37iv/0z6+pBWIlhcleFO7OnB+zpH+rPhQYQ1hudH69pB1S\nc6zG8nRUq4U67Z//RZd+zRC95PMXxlc2BXKqQDddxEgrt1SkWMC7e8EwVMSw2mKU\nDrqCef2HLI8JXSYw4KWLJqhqp+m4Pwf9n+G585296g/FyX4NwgC/TtnRwCbl8sOF\nwieB+Jt29PmYia0AmY6zulnXM+5HzSudrVi6tn83kQKBgQDjpRv3FASctaDPW2nX\nRAJVHiaiT7V55R5vSg+flUKoCLoh8rrCAeAnJ1D5ZUI0a2/SAxGnxFIzTOAxOIMX\nKK4Yj9XZXblM9QPRO+ItbBhbfWq2IsY5DjeZHFGwo3pardtjJmBxET/QLsSggF98\n5jPOcoOav73jbVMMRwSqcuWzSwKBgQDISdsUQmjpWS835VWFo0q+yMOtcCFUjlv/\n0/56g4RGY23YnxN+2tR92FUgA29FNeSzkjZXp1lukWMqCYnpGtB14Ci01bWGBd0A\nZEEBY/8N1YVfPqQ0ebNvQPsYnvo/NVfmJJUC8JGLBuc33wm3X0cmX9y42jR01g6m\nzYM/n87k0QKBgQCwCQLKGwHCCTX0g3UiUOYY2jr38vmb7FCPsM7KEgs8k5sUG3bO\nBdNHk8CrSuFaVeZfmZ3yhP8nyn/nsBK3Ou798WRmNXLQjvvHti4d/+QKA78cX2G3\nx0W5Mcv98zzvmFf5oTic1sDpBPFqSDsPA5j2QVmBtlpp3yWEbfqusDDuZwKBgCF0\njL6mlSWdOxDoIs/uxbZ2jJD08OxR1zY1cAWA4GBtjVSoxbXj0aivsRBm4ng6F1iT\nbLZZgsvAR0MnUrz4OKfn6ITEScz4P8En/d/Al0L1TpDpQr5tMba8sPSc4YobW/Ja\nW/Wgv37siUTA4buak6TqUFEkSazWcJ4WJ/1BsWpxAoGBANLZ7DmkqrNcdQpFZpcz\nxg04sEL8BgW7ehqDqrupDYpO6Vf+SjKjf/jYT/9b8/+Z7oVxmI/Bfz6yJkoVgi/e\nn51+BAXYuIr3aMblD75wvivYt5DiWvAo/BoO9T6vkfl7HHMA8jvpKbFOhBm+92Bb\nwAdKA9T8uZUx/z83K+8wnb9D\n-----END PRIVATE KEY-----\n",
+    "client_email": "africanesedcation@education-app-291403.iam.gserviceaccount.com",
+    "client_id": "113067768824961825494",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/africanesedcation%40education-app-291403.iam.gserviceaccount.com"
+  }
